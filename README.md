@@ -1,12 +1,7 @@
-# S4FE AG (S4F) coin | network | crowdsale
+# S4FE AG (S4F) token | security | crowdsale
 > S4FE is the world’s first blockchain technology based global database for the registration and identification of stolen or lost items. The database is accessible to everyone and enables users to register and search property on the blockchain. Such property could be electronic devices, jewelry, collections, valuables of any kind, documents, sports and hobby equipment, vehicles and machines or nearly any conceivable item representing a value to its owner.
 
-<br>
-<br>
-
-<p align="center">
-  <img src="https://s4fe.io/assets/images/s4fe_logo_004-black.png">
-</p>
+![alt text](https://s4fe.io/assets/images/s4fe_logo_004-black.png)
 
 ### Technical Definition
 S4F is a ERC20-compliant token derived from the OpenZeppelin StandardToken
