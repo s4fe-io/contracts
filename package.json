@@ -1,0 +1,34 @@
+{
+  "name": "s4fe-contracts",
+  "version": "1.0.0",
+  "description": "S4FE Smart Contracts",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/s4feio/contracts.git"
+  },
+  "keywords": [
+    "S4FE",
+    "Smart",
+    "Contract",
+    "Solidity",
+    "Ethereum",
+    "SAFE",
+    "Token",
+    "S4F",
+    "S4F",
+    "Token"
+  ],
+  "author": "Hussain C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/s4feio/contracts/issues"
+  },
+  "homepage": "https://gitlab.com/s4feio/contracts#README",
+  "dependencies": {
+    "zeppelin-solidity": "1.7.0"
+  }
+}
